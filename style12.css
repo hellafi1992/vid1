@@ -1,0 +1,58 @@
+body{
+    background: #212121;
+}
+
+details{
+
+    font-size: 70px;
+    color: blue;
+}
+
+
+.video-controls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.btn{
+    margin: 5% 3%;
+    padding: .4em;
+    font-size: 60px;
+}
+
+
+h1{
+    color: antiquewhite;
+    background: none;
+    font-size: 75px;
+    font-family: cursive;
+    text-align: center;
+}
+
+h2{
+    color: antiquewhite;
+    background: none;
+    font-size: 75px;
+    font-family: cursive;
+    text-align: center;
+}
+
+video{
+    min-width: 100%;
+    height: auto;
+}
+
+a, li{
+    list-style: none;
+    text-decoration: none;
+}
+
+footer{
+    position: relative;
+    top: 80px;
+    color: bisque;
+    font-size: 70px;
+    text-align: center;
+}
